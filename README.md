@@ -6,8 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=coletebou&style=flat-square&color=F59E0B" alt="Profile views"/>
 </p>
 
-<!-- Gold Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=coletebou&bg_color=0d1117&color=F59E0B&line=F59E0B&point=ffffff&area=true&area_color=F59E0B&hide_border=true" width="100%"/>
+<!-- Gold Contribution Calendar -->
+<img src="https://ghchart.rshah.org/F59E0B/coletebou" alt="GitHub Contribution Graph" width="100%"/>
 
 ---
 
