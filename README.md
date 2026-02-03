@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm80bDN6bTIyZDNxc2lpeGw1cGQ5ZnFqZDRzdzR5MjJxaGNlOTJqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6xIroIZjYo0mEGqms5/giphy.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/coletebou/coletebou/main/coding.gif" width="400"/>
 </p>
 
 # Hey, I'm Cole 👋
