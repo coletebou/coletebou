@@ -1,12 +1,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B&height=120&section=header"/>
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm80bDN6bTIyZDNxc2lpeGw1cGQ5ZnFqZDRzdzR5MjJxaGNlOTJqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6xIroIZjYo0mEGqms5/giphy.gif" width="400"/>
+</p>
+
 # Hey, I'm Cole 👋
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=coletebou&style=flat-square&color=F59E0B" alt="Profile views"/>
 </p>
 
-<!-- Gold Activity Graph - no white squares -->
+<!-- Gold Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=coletebou&bg_color=0d1117&color=F59E0B&line=F59E0B&point=F59E0B&area=true&area_color=F59E0B&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 
 ---
