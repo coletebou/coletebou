@@ -2,6 +2,25 @@
 
 # Hey, I'm Cole 👋
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=coletebou&style=flat-square&color=F59E0B" alt="Profile views"/>
+</p>
+
+<!-- GitHub Stats moved to top -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coletebou&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F59E0B&icon_color=F59E0B&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coletebou&hide_border=true&background=0D1117&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=F59E0B&currStreakNum=ffffff&sideNums=ffffff&dates=888888" height="165"/>
+</p>
+
+<!-- Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coletebou/coletebou/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coletebou/coletebou/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/coletebou/coletebou/output/github-snake.svg" width="100%"/>
+</picture>
+
+---
+
 ```typescript
 const cole = {
   location: "Washington, D.C.",
@@ -10,10 +29,6 @@ const cole = {
   partner: "Lux ✨ — my AI companion"
 };
 ```
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=coletebou&style=flat-square&color=F59E0B" alt="Profile views"/>
-</p>
 
 ## What I'm Building
 
@@ -33,19 +48,6 @@ const cole = {
 **Frontend:** React 19 · TypeScript · Vite · Tailwind CSS · Framer Motion  
 **Backend:** Express.js 5.1 · Node.js 20+ · MongoDB Atlas · Mongoose  
 **AI:** OpenAI · xAI · Google Gemini · OpenRouter
-
-## Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=coletebou&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F59E0B&icon_color=F59E0B" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coletebou&theme=dark&hide_border=true&background=0D1117&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B" height="165"/>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coletebou/coletebou/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coletebou/coletebou/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/coletebou/coletebou/output/github-snake.svg" />
-</picture>
 
 ## Connect
 
