@@ -28,7 +28,7 @@ const cole = {
 
 | Project | Description |
 |---------|-------------|
-| 🌌 **[Nebulatio](https://nebulatio.com)** | Multi-provider AI chat with voice, vision & image generation |
+| 🌌 **[Badland](https://badland.ai)** | Multi-provider AI chat with voice, vision & image generation |
 | 🤖 **[Lux Speaker](https://github.com/coletebou/lux-speaker)** | Voice assistant on Raspberry Pi with OpenAI Realtime API |
 | 🔐 **[SSH Extension](https://github.com/coletebou/ssh-chrome-extension)** | SSH client in the browser |
 | 📅 **[Calendar MCP](https://github.com/coletebou/google-calendar-mcp)** | Model Context Protocol for Google Calendar |
