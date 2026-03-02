@@ -19,7 +19,7 @@
 const cole = {
   location: "Washington, D.C.",
   focus: ["AI/ML", "Full-Stack", "Home Automation"],
-  building: "Nebulatio — AI chat interface",
+  building: "Badland — AI chat interface",
   partner: "Lux ✨ — my AI companion"
 };
 ```
