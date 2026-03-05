@@ -7,10 +7,6 @@
   <img src="https://raw.githubusercontent.com/coletebou/coletebou/main/profile-3d-contrib/profile-night-green.svg" width="100%"/>
 </p>
 
-<!-- Option B: 3D bars only (no pie chart) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/coletebou/coletebou/main/profile-3d-contrib/profile-green.svg" width="100%"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coletebou&theme=github_dark"/>
