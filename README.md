@@ -40,7 +40,7 @@ Civil engineer by training, software engineer by obsession.
 | **[OpenClaw / Badclaw](https://nebulatio.com/projects/openclaw)** | Docker, gVisor, Node.js, Nginx | Multi-tenant agent hosting, 20+ containers, automated provisioning, iMessage integration |
 | **[Agent Platform](https://agent.badland.ai)** | React, Express, Docker API | Self-service agent signup with auto-provisioned subdomains and Telegram bots |
 | **[Nebulatio Studio](https://studio.badland.ai)** | Web Design, React, Next.js | Full-service web design and development agency for modern brands |
-| **[starheart.ai](https://starheart.ai)** | AI | Christian AI initiative — using artificial intelligence to serve Jesus Christ and reflect truth, stewardship, and radiance |
+| **[starheart.ai](https://starheart.ai)** | HTML, Cloudflare Pages | Christian AI initiative — using artificial intelligence to serve Jesus Christ and reflect truth, stewardship, and radiance |
 | **[Infrastructure](https://nebulatio.com/projects/infrastructure)** | Cloudflare, Vercel, GitHub Actions, Tailscale | Production infra with CI/CD, monitoring (Sentry, UptimeRobot, Langfuse) |
 | **[Dev Environment](https://nebulatio.com/projects/dev-environment)** | zsh, tmux, Starship, dotfiles, Claude Code | Portable dev setup synced across 5+ machines with custom tooling |
 
