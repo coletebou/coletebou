@@ -34,8 +34,7 @@ Civil engineer by training, software engineer by obsession.
 | **[Agent Platform](https://agent.badland.ai)** | React, Express, Docker API | Self-service agent signup with auto-provisioned subdomains and Telegram bots |
 | **[starheart.ai](https://starheart.ai)** | AI | AI-powered project |
 | **[Infrastructure](https://nebulatio.com/projects/infrastructure)** | Cloudflare, Vercel, GitHub Actions, Tailscale | Production infra with CI/CD, monitoring (Sentry, UptimeRobot, Langfuse) |
-| **[Claude Code Setup](https://nebulatio.com/projects/claude-code)** | TypeScript, MCP, Hooks | Custom plugins, skills, agents, and behavioral guardrails for Claude Code |
-| **[Dev Environment](https://nebulatio.com/projects/dev-environment)** | zsh, tmux, Starship, dotfiles | Portable dev setup synced across 5+ machines with bootstrap installer |
+| **[Dev Environment](https://nebulatio.com/projects/dev-environment)** | zsh, tmux, Starship, dotfiles, Claude Code | Portable dev setup synced across 5+ machines with custom tooling |
 
 ## Tech Stack
 
