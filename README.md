@@ -1,60 +1,53 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B&height=120&section=header"/>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/coletebou/coletebou/main/coding.gif" width="400"/>
 </p>
 
-# Hey, I'm Cole 👋
+<img src="https://ghchart.rshah.org/4ade80/coletebou" alt="GitHub Contributions" width="100%"/>
+
+```
+$ whoami
+```
+
+# Cole Tebou
+
+**Software Engineer · AI Infrastructure**
+
+Building production AI systems — from full-stack chat platforms to multi-tenant agent hosting.
+Civil engineer by training, software engineer by obsession.
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=coletebou&style=flat-square&color=F59E0B" alt="Profile views"/>
+  <a href="https://nebulatio.com"><img src="https://img.shields.io/badge/portfolio-nebulatio.com-4ade80?style=flat-square&logoColor=white"/></a>
+  <a href="https://chat.badland.ai"><img src="https://img.shields.io/badge/chat-badland.ai-4ade80?style=flat-square&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/coletebou"><img src="https://img.shields.io/badge/LinkedIn-coletebou-4ade80?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=coletebou&style=flat-square&color=4ade80" alt="Profile views"/>
 </p>
-
-<!-- Gold Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=coletebou&bg_color=0d1117&color=F59E0B&line=F59E0B&point=F59E0B&area=true&area_color=F59E0B&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 
 ---
 
-```typescript
-const cole = {
-  location: "Washington, D.C.",
-  focus: ["AI/ML", "Full-Stack", "Home Automation"],
-  building: "Badland — AI chat interface",
-  partner: "Lux ✨ — my AI companion"
-};
-```
-
 ## What I'm Building
 
-| Project | Description |
-|---------|-------------|
-| 🌌 **[Badland](https://badland.ai)** | Multi-provider AI chat with voice, vision & image generation |
-| 🤖 **[Lux Speaker](https://github.com/coletebou/lux-speaker)** | Voice assistant on Raspberry Pi with OpenAI Realtime API |
-| 🔐 **[SSH Extension](https://github.com/coletebou/ssh-chrome-extension)** | SSH client in the browser |
-| 📅 **[Calendar MCP](https://github.com/coletebou/google-calendar-mcp)** | Model Context Protocol for Google Calendar |
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **[Badland AI Chat](https://chat.badland.ai)** | React, Vite, Express, tRPC, MongoDB | Multi-model chat platform (Claude, GPT, Gemini, Grok) with voice, image gen, council mode |
+| **[OpenClaw / Badclaw](https://nebulatio.com/projects/openclaw)** | Docker, gVisor, Node.js, Nginx | Multi-tenant agent hosting, 20+ containers, automated provisioning, iMessage integration |
+| **[Agent Platform](https://agent.badland.ai)** | React, Express, Docker API | Self-service agent signup with auto-provisioned subdomains and Telegram bots |
+| **[Infrastructure](https://nebulatio.com/projects/infrastructure)** | Cloudflare, Vercel, GitHub Actions, Tailscale | Production infra with CI/CD, monitoring (Sentry, UptimeRobot, Langfuse) |
+| **[Claude Code Setup](https://nebulatio.com/projects/claude-code)** | TypeScript, MCP, Hooks | Custom plugins, skills, agents, and behavioral guardrails for Claude Code |
+| **[Dev Environment](https://nebulatio.com/projects/dev-environment)** | zsh, tmux, Starship, dotfiles | Portable dev setup synced across 5+ machines with bootstrap installer |
 
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,nodejs,express,mongodb&theme=dark" />
-</p>
-
-**Frontend:** React 19 · TypeScript · Vite · Tailwind CSS · Framer Motion  
-**Backend:** Express.js 5.1 · Node.js 20+ · MongoDB Atlas · Mongoose  
-**AI:** OpenAI · xAI · Google Gemini · OpenRouter
+**Frontend** · React, TypeScript, Vite, Tailwind CSS, Radix UI, shadcn/ui, Motion
+**Backend** · Node.js, Express, TypeScript, tRPC, Bun
+**Database** · MongoDB, Mongoose, MongoDB Atlas
+**AI / LLM** · Claude, GPT, Gemini, Grok, Vercel AI SDK, Amazon Bedrock, Langfuse
+**Infrastructure** · Cloudflare, Vercel, Docker, gVisor, Tailscale, Nginx
+**CI/CD** · GitHub Actions (self-hosted runners), Vercel auto-deploy
+**Monitoring** · Sentry, UptimeRobot, Langfuse, Greptile
 
 ## Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=coletebou&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F59E0B&icon_color=F59E0B&text_color=ffffff"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coletebou&hide_border=true&background=0D1117&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=F59E0B&currStreakNum=ffffff&sideNums=ffffff&dates=888888"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=coletebou&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=4ade80&icon_color=4ade80&text_color=e4e4e7&ring_color=4ade80"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coletebou&hide_border=true&background=0a0a0a&ring=4ade80&fire=4ade80&currStreakLabel=4ade80&sideLabels=4ade80&currStreakNum=e4e4e7&sideNums=e4e4e7&dates=71717a"/>
 </p>
-
-## Connect
-
-<p>
-  <a href="https://x.com/coletebou"><img src="https://img.shields.io/badge/@coletebou-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://nebulatio.com"><img src="https://img.shields.io/badge/nebulatio.com-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=black"/></a>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B&height=100&section=footer"/>
