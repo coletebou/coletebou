@@ -2,6 +2,13 @@
   <img src="https://raw.githubusercontent.com/coletebou/coletebou/main/coding.gif" width="400"/>
 </p>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=coletebou&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=4ade80&text_color=e4e4e7&ring_color=4ade80"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coletebou&hide_border=true&background=0d1117&ring=4ade80&fire=4ade80&currStreakLabel=4ade80&sideLabels=4ade80&currStreakNum=e4e4e7&sideNums=e4e4e7&dates=71717a"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/coletebou/coletebou/main/profile-3d-contrib/profile-night-green.svg" width="100%"/>
+
 ```
 $ whoami
 ```
@@ -44,41 +51,3 @@ Civil engineer by training, software engineer by obsession.
 **Infrastructure** · Cloudflare, Vercel, Docker, gVisor, Tailscale, Nginx
 **CI/CD** · GitHub Actions (self-hosted runners), Vercel auto-deploy
 **Monitoring** · Sentry, UptimeRobot, Langfuse, Greptile
-
-## Contributions
-
-<!-- COMPARING CONTRIBUTION VISUALIZATIONS — pick your favorite, then remove the rest -->
-
-<!-- Option 1: Activity Graph (line chart showing contribution trend over time) -->
-<h3>📈 Option 1 — Activity Graph</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=coletebou&theme=github-dark&bg_color=0d1117&color=4ade80&line=4ade80&point=e4e4e7&area=true&hide_border=true" width="100%"/>
-
-<!-- Option 2: Profile Details (wide contribution heatmap — what you had before) -->
-<h3>🗓️ Option 2 — Profile Details Heatmap</h3>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coletebou&theme=github_dark" width="100%"/>
-
-<!-- Option 3: Snake Animation (requires GitHub Action — see .github/workflows/snake.yml) -->
-<h3>🐍 Option 3 — Contribution Snake</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coletebou/coletebou/output/github-snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/coletebou/coletebou/output/github-snake-dark.svg" width="100%"/>
-</picture>
-
-<!-- Option 4: 3D Contribution Calendar (requires GitHub Action — see .github/workflows/3d-contrib.yml) -->
-<h3>🏔️ Option 4 — 3D Contribution Calendar</h3>
-<img src="https://raw.githubusercontent.com/coletebou/coletebou/main/profile-3d-contrib/profile-night-green.svg" width="100%"/>
-
-<!-- Option 5: Multi-card Summary (stats, productive time, languages) -->
-<h3>📊 Option 5 — Summary Cards</h3>
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coletebou&theme=github_dark" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coletebou&theme=github_dark&utcOffset=-5" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coletebou&theme=github_dark" width="32%"/>
-</p>
-
-<!-- Option 6: Stats + Streak (what you had at the bottom) -->
-<h3>🔥 Option 6 — Stats + Streak</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=coletebou&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=4ade80&text_color=e4e4e7&ring_color=4ade80"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coletebou&hide_border=true&background=0d1117&ring=4ade80&fire=4ade80&currStreakLabel=4ade80&sideLabels=4ade80&currStreakNum=e4e4e7&sideNums=e4e4e7&dates=71717a"/>
-</p>
