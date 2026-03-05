@@ -2,8 +2,14 @@
   <img src="https://raw.githubusercontent.com/coletebou/coletebou/main/coding.gif" width="400"/>
 </p>
 
+<!-- Option A: 3D bars + pie/radar (current) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/coletebou/coletebou/main/profile-3d-contrib/profile-night-green.svg" width="100%"/>
+</p>
+
+<!-- Option B: 3D bars only (no pie chart) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coletebou/coletebou/main/profile-3d-contrib/profile-green.svg" width="100%"/>
 </p>
 
 <p align="center">
@@ -26,7 +32,7 @@ Civil engineer by training, software engineer by obsession.
   <a href="https://nebulatio.com"><img src="https://img.shields.io/badge/portfolio-nebulatio.com-4ade80?style=flat-square&logoColor=white"/></a>
   <a href="https://chat.badland.ai"><img src="https://img.shields.io/badge/chat-badland.ai-4ade80?style=flat-square&logoColor=white"/></a>
   <a href="https://starheart.ai"><img src="https://img.shields.io/badge/starheart-starheart.ai-4ade80?style=flat-square&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/coletebou"><img src="https://img.shields.io/badge/LinkedIn-coletebou-4ade80?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/cole-tebou/"><img src="https://img.shields.io/badge/LinkedIn-cole--tebou-4ade80?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=coletebou&style=flat-square&color=4ade80" alt="Profile views"/>
 </p>
 
