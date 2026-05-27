@@ -9,8 +9,16 @@
 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coletebou&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=coletebou&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=4ade80&text_color=e4e4e7&ring_color=4ade80" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coletebou&layout=compact&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=e4e4e7&langs_count=10" height="165"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=coletebou&hide_border=true&background=0d1117&ring=4ade80&fire=4ade80&currStreakLabel=4ade80&sideLabels=4ade80&currStreakNum=e4e4e7&sideNums=e4e4e7&dates=71717a"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coletebou/coletebou/output/github-snake-dark.svg" width="100%"/>
 </p>
 
 ```
