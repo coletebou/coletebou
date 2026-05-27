@@ -10,7 +10,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coletebou&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coletebou&theme=github_dark"/>
 </p>
 
 <p align="center">
