@@ -9,8 +9,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coletebou&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=4ade80&text_color=e4e4e7&ring_color=4ade80" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coletebou&layout=compact&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=e4e4e7&langs_count=10" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coletebou&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coletebou&theme=github_dark"/>
 </p>
 
 <p align="center">
