@@ -9,10 +9,6 @@
 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coletebou&theme=github_dark"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=coletebou&hide_border=true&background=0d1117&ring=4ade80&fire=4ade80&currStreakLabel=4ade80&sideLabels=4ade80&currStreakNum=e4e4e7&sideNums=e4e4e7&dates=71717a"/>
 </p>
 
