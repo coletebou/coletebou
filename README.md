@@ -25,8 +25,9 @@ Building production AI systems, from full-stack chat platforms to multi-tenant a
 Civil engineer by training, software engineer by obsession.
 
 <p>
-  <a href="https://nebulatio.com"><img src="https://img.shields.io/badge/portfolio-nebulatio.com-4ade80?style=flat-square&logoColor=white"/></a>
+  <a href="https://coletebou.com"><img src="https://img.shields.io/badge/portfolio-coletebou.com-4ade80?style=flat-square&logoColor=white"/></a>
   <a href="https://chat.badland.ai"><img src="https://img.shields.io/badge/chat-badland.ai-4ade80?style=flat-square&logoColor=white"/></a>
+  <a href="https://agent.badland.ai"><img src="https://img.shields.io/badge/agent-badland.ai-4ade80?style=flat-square&logoColor=white"/></a>
   <a href="https://starheart.ai"><img src="https://img.shields.io/badge/starheart-starheart.ai-4ade80?style=flat-square&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/cole-tebou/"><img src="https://img.shields.io/badge/LinkedIn-cole--tebou-4ade80?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=coletebou&style=flat-square&color=4ade80" alt="Profile views"/>
@@ -38,20 +39,24 @@ Civil engineer by training, software engineer by obsession.
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| **[Badland AI Chat](https://chat.badland.ai)** | React, Vite, Express, tRPC, MongoDB | Multi-model chat platform (Claude, GPT, Gemini, Grok) with voice, image gen, council mode |
-| **[OpenClaw / Badclaw](https://nebulatio.com/projects/openclaw)** | Docker, gVisor, Node.js, Nginx | Multi-tenant agent hosting, 20+ containers, automated provisioning, iMessage integration |
-| **[Agent Platform](https://agent.badland.ai)** | React, Express, Docker API | Self-service agent signup with auto-provisioned subdomains and Telegram bots |
-| **[Nebulatio Studio](https://studio.badland.ai)** | Web Design, React, Next.js | Full-service web design and development agency for modern brands |
-| **[starheart.ai](https://starheart.ai)** | HTML, Cloudflare Pages | Christian AI initiative — using artificial intelligence to serve Jesus Christ and reflect truth, stewardship, and radiance |
-| **[Infrastructure](https://nebulatio.com/projects/infrastructure)** | Cloudflare, Vercel, GitHub Actions, Tailscale | Production infra with CI/CD, monitoring (Sentry, UptimeRobot, Langfuse) |
-| **[Dev Environment](https://nebulatio.com/projects/dev-environment)** | zsh, tmux, Starship, dotfiles, Claude Code | Portable dev setup synced across 5+ machines with custom tooling |
+| **[chat.badland.ai](https://chat.badland.ai)** | TypeScript, React, Vite, Express 5, MongoDB, AWS Bedrock | Multi-model chat platform (Claude, GPT, Gemini, Grok) with voice, image gen, and council mode. Production for over a year with paying tenants. |
+| **[agent.badland.ai (OpenClaw)](https://agent.badland.ai)** | Docker, gVisor, Node.js, Nginx | Multi-tenant AI agent platform. Auto-provisioner spins up an isolated tenant on signup and texts the user via iMessage or SMS within seconds. |
+| **[ai-cli](https://github.com/coletebou/ai-keys)** | Rust | CLI that fans a query to multiple LLM providers in parallel and renders side-by-side responses in CLI or TUI mode. |
+| **Voice agent** | Raspberry Pi, OpenAI Realtime / Gemini Live / Grok | Local wake-word ("lux") triggers full-duplex conversation, all backed by one Badland API. |
+| **[starheart.ai](https://starheart.ai)** | HTML, Cloudflare Pages | Christian AI initiative — using artificial intelligence to serve Jesus Christ and reflect truth, stewardship, and radiance. |
+| **Infrastructure** | AWS (Bedrock, EC2, IAM, Route 53, CloudWatch, SES), Cloudflare, Vercel, Tailscale, GitHub Actions | Production infra with CI/CD, observability (Sentry, UptimeRobot, OpenTelemetry to Langfuse). |
+| **Dev Environment** | zsh, tmux, Starship, dotfiles, Claude Code | Portable dev setup with bidirectional sync across roughly 10 machines and 3 OSes (macOS, Ubuntu, iOS), hundreds of aliases / shell functions / Claude Code skills. |
+
+## Open Source
+
+10+ PRs merged into [OpenClaw](https://github.com/coletebou/openclaw), [Langfuse](https://github.com/coletebou/langfuse-python), and the [Vercel AI SDK](https://github.com/coletebou/ai) in the past month covering channel extensions, observability, and developer tooling.
 
 ## Tech Stack
 
-**Frontend** · React, TypeScript, Vite, Tailwind CSS, Radix UI, shadcn/ui, Motion
-**Backend** · Node.js, Express, TypeScript, tRPC, Bun
-**Database** · MongoDB, Mongoose, MongoDB Atlas
-**AI / LLM** · Claude, GPT, Gemini, Grok, Vercel AI SDK, Amazon Bedrock, Langfuse
-**Infrastructure** · Cloudflare, Vercel, Docker, gVisor, Tailscale, Nginx
-**CI/CD** · GitHub Actions (self-hosted runners), Vercel auto-deploy
-**Monitoring** · Sentry, UptimeRobot, Langfuse, Greptile
+**Frontend** · React, Next.js, TypeScript, Vite, Astro, Tailwind CSS, shadcn/ui, Radix UI, Vercel AI SDK
+**Backend** · Node.js, Bun, TypeScript, Express 5, tRPC, FastAPI, Hono
+**Database** · MongoDB (Atlas + self-hosted), PostgreSQL, Supabase, SQLite, R2/S3
+**AI / LLM** · Claude (Bedrock + API), GPT, Gemini, Grok, Vercel AI Gateway, Langfuse, agentic frameworks
+**Infrastructure** · AWS (Bedrock, EC2, IAM, Route 53, CloudWatch, SES), Cloudflare (Workers, DNS, Email Routing), Vercel, Docker, gVisor, Tailscale, Nginx, Caddy
+**CI/CD** · GitHub Actions (self-hosted runners), GitLab CI, Vercel auto-deploy
+**Observability** · OpenTelemetry, Langfuse, Sentry, UptimeRobot
