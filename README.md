@@ -29,7 +29,7 @@ ports.
 </td>
 <td width="50%" valign="top">
 
-### badland-brain <sub>opening soon</sub>
+### [badland-brain](https://github.com/coletebou/badland-brain)
 
 **The shared memory.** One self-hosted memory for Claude Code, Codex, ChatGPT and any MCP client.
 Hybrid keyword and vector search, facts that keep their history, per-agent keys, a write gate that
