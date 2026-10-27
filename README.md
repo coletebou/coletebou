@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img alt="Cole Tebou: software engineer, tools for running fleets of coding agents. An engineering cover sheet: a utility plan ties Claude Code, Codex, Grok bots and OpenClaw into the Drover control plane, above the badland-brain shared memory and the dx environment." src="assets/banner-light.svg" width="100%">
+    <img alt="Cole Tebou’s Almanac and Ephemeris for the Year of Our Lord 2026: a software engineer building tools for running fleets of coding agents (the Drover control plane, the badland-brain shared memory and the dx environment), with a star chart of Orion and the Pleiades, the phases of the Moon, and Psalm 19:1." src="assets/banner-light.svg" width="100%">
   </picture>
 </a>
 
