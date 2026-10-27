@@ -75,17 +75,14 @@ milliseconds.
 
 | | |
 |---|---|
+| **[badland.ai](https://badland.ai)** | Badland: AI built for independence. |
 | **[agent.badland.ai](https://agent.badland.ai)** | Your own AI agent in iMessage and SMS. No new app: sign up and it texts you. |
+| **[chat.badland.ai](https://chat.badland.ai)** | Three AIs answer one prompt side by side, with image generation and voice. |
 | **[tallgrass.social](https://tallgrass.social)** | Go find something wild: identify what you find, keep your discoveries, explore with friends. |
 | **[starheart.ai](https://starheart.ai)** | Intelligence in service of the Creator: AI used to glorify God, a light in a dark world. |
 | **[sunnydayz.co](https://sunnydayz.co)** | Family outdoor gear for trading screen time for sunshine. |
-| **[chat.badland.ai](https://chat.badland.ai)** | Three AIs answer one prompt side by side, with image generation and voice. |
-| **[coletebou.com](https://coletebou.com)** | My portfolio, the almanac edition. |
-| **[plans.coletebou.com](https://plans.coletebou.com)** | The same portfolio, drawn as a set of engineering sheets. |
-| **[term.coletebou.com](https://term.coletebou.com)** | And as a shell: `ls` the works, open one. |
-| **[coletebou.github.io](https://coletebou.github.io)** | The index of all three editions. |
-| **[badland.ai](https://badland.ai)** | Badland: AI built for independence. |
 | **[arena.badland.ai](https://arena.badland.ai)** | ROOTFALL: a 3D AI battle royale you can watch live. |
+| **[Portfolio](https://coletebou.github.io)** | In three editions: [almanac](https://coletebou.com) · [blueprint](https://plans.coletebou.com) · [shell](https://term.coletebou.com) |
 | **[nebulatio.com](https://nebulatio.com)** | Nebulatio Studio: web design and development. |
 
 ## Upstream
@@ -94,7 +91,6 @@ Pull requests merged into other people's projects, as of October 2026: 72 to
 [ooxml](https://github.com/ChristopherVR/ooxml) (the logic behind its Office viewers) and 10 across
 [OpenClaw](https://github.com/openclaw)'s projects: 8 to [Clawpatch](https://github.com/openclaw/clawpatch),
 and one each to [OpenClaw](https://github.com/openclaw/openclaw) itself and [imsg](https://github.com/openclaw/imsg).
-Five more are open on OpenClaw.
 [Every merged pull request](https://github.com/search?q=author%3Acoletebou+is%3Apr+is%3Amerged+-user%3Acoletebou+-org%3ABadland-AI&type=pullrequests).
 
 ---
