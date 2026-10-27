@@ -75,7 +75,6 @@ milliseconds.
 
 | | |
 |---|---|
-| **[badland.ai](https://badland.ai)** | Badland: AI built for independence. |
 | **[agent.badland.ai](https://agent.badland.ai)** | Your own AI agent in iMessage and SMS. No new app: sign up and it texts you. |
 | **[chat.badland.ai](https://chat.badland.ai)** | Three AIs answer one prompt side by side, with image generation and voice. |
 | **[tallgrass.social](https://tallgrass.social)** | Go find something wild: identify what you find, keep your discoveries, explore with friends. |
