@@ -80,7 +80,7 @@ milliseconds.
 <tr><td><b><a href="https://starheart.ai">starheart.ai</a></b></td><td>Intelligence in service of the Creator: AI used to glorify God, a light in a dark world.</td></tr>
 <tr><td><b><a href="https://sunnydayz.co">sunnydayz.co</a></b></td><td>Family outdoor gear for trading screen time for sunshine.</td></tr>
 <tr><td><b><a href="https://arena.badland.ai">arena.badland.ai</a></b></td><td>ROOTFALL: a 3D AI battle royale you can watch live.</td></tr>
-<tr><td><b><a href="https://coletebou.github.io">Portfolio</a></b></td><td>In three editions: <a href="https://coletebou.com">almanac</a> · <a href="https://plans.coletebou.com">blueprint</a> · <a href="https://term.coletebou.com">shell</a></td></tr>
+<tr><td><b><a href="https://coletebou.com">coletebou.com</a></b></td><td>Portfolio, in four editions: <a href="https://coletebou.com">almanac</a> · <a href="https://plans.coletebou.com">blueprint</a> · <a href="https://term.coletebou.com">shell</a> · <a href="https://coletebou.github.io">index</a></td></tr>
 <tr><td><b><a href="https://nebulatio.com">nebulatio.com</a></b></td><td>Nebulatio Studio: web design and development.</td></tr>
 </table>
 
