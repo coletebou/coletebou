@@ -42,7 +42,7 @@ refuses secrets, and provenance on everything an agent reads back.
 <tr>
 <td width="50%" valign="top">
 
-### dx <sub>opening soon</sub>
+### [dx](https://github.com/coletebou/dx)
 
 **The environment.** Dotfiles for running fleets of coding agents: Claude Code and Codex hooks, a
 skills marketplace, tmux, git worktrees, session handoff chains and agent memory. macOS and Linux.
@@ -88,9 +88,9 @@ Five more are open on OpenClaw.
 <p>
   <a href="https://coletebou.com">coletebou.com</a> ·
   <a href="https://plans.coletebou.com">the plan set</a> ·
+  <a href="https://term.coletebou.com">the terminal</a> ·
   <a href="https://coletebou.github.io">coletebou.github.io</a> ·
   <a href="https://badland.ai">badland.ai</a> ·
   <a href="https://www.linkedin.com/in/cole-tebou">LinkedIn</a> ·
   <a href="https://x.com/coletebou">X</a>
 </p>
-<!-- When the terminal edition ships, add: <a href="https://term.coletebou.com">the terminal</a> -->
