@@ -6,22 +6,15 @@
   </picture>
 </a>
 
-I build agentic systems and run them in production.
+I build agentic AI for the nuclear industry: enterprise systems on AWS, where every result has to be
+traceable.
 
-**In the enterprise,** I build AI and engineering systems for the advanced nuclear industry: agentic
-workflows and platform capabilities on AWS, built for reliability, access control and traceable results.
+Before code, I built things you can stand on. As a civil and structural engineer in heavy construction, I led
+a 20-person ironworker crew setting six million pounds of rebar on a $100M ship-lift drydock. I bring that
+discipline to agents.
 
-**[Badland](https://badland.ai) is my own platform.** It gives each person an AI agent of their own, with
-its own memory, skills, tools and scheduled jobs, that they text over iMessage and SMS. More than a hundred
-are provisioned, each in its own container; idle agents sleep and wake on the next text, so one server
-carries them all.
-
-**A fleet of coding agents builds and runs it:** dozens of Claude Code and Codex sessions across my
-machines that plan, build, review and deploy. They hand their work to fresh sessions in chains now more
-than thirty generations deep, share one memory, and answer to a manager agent that keeps them moving.
-
-Before software I was a structural engineer on heavy civil and industrial projects, from a $100M ship-lift
-drydock to a $250M industrial plant. The stack that runs my fleet is open source:
+On the side I run [Badland](https://badland.ai), a personal-agent platform built and operated by a fleet of
+coding agents, on the open-source stack below.
 
 ## The agent stack
 
