@@ -1,65 +1,96 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/coletebou/coletebou/main/coding.gif" width="400"/>
-</p>
+<a href="https://coletebou.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img alt="Cole Tebou: software engineer, tools for running fleets of coding agents. An engineering cover sheet: a utility plan ties Claude Code, Codex, Grok bots and OpenClaw into the Drover control plane, above the badland-brain shared memory and the dx environment." src="assets/banner-light.svg" width="100%">
+  </picture>
+</a>
 
-<!-- Option A: 3D bars + pie/radar (current) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/coletebou/coletebou/main/profile-3d-contrib/profile-night-green.svg" width="100%"/>
-</p>
+I build the tooling for running a fleet of coding agents: a control plane that sees every Claude Code
+and Codex session on every machine, one memory they all share, and the environment underneath them.
+On top of it I run [Badland](https://badland.ai): a personal AI agent you text over iMessage, SMS and
+Telegram, and a chat app that puts three AIs on one prompt, side by side.
 
+## The fleet
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coletebou&hide_border=true&background=0d1117&ring=4ade80&fire=4ade80&currStreakLabel=4ade80&sideLabels=4ade80&currStreakNum=e4e4e7&sideNums=e4e4e7&dates=71717a"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/coletebou/coletebou/output/github-snake-dark.svg" width="100%"/>
-</p>
+### [Drover](https://github.com/coletebou/drover)
 
-```
-$ whoami
-```
+**The control plane.** Every Claude Code session, Codex thread and Grok bot on every host, in three
+lanes: waiting on you, working, idle. Answer, message and launch them from a browser, a terminal, a
+Mac, an iPhone, a watch or a browser extension. One daemon per machine, zero npm dependencies, no open
+ports.
 
-# Cole Tebou
+`Node 24` `Swift` `MCP` `tmux`
 
-**Software Engineer · AI Infrastructure**
+</td>
+<td width="50%" valign="top">
 
-Building production AI systems, from full-stack chat platforms to multi-tenant agent hosting.
-Civil engineer by training, software engineer by obsession.
+### badland-brain <sub>opening soon</sub>
 
-<p>
-  <a href="https://coletebou.com"><img src="https://img.shields.io/badge/portfolio-coletebou.com-4ade80?style=flat-square&logoColor=white"/></a>
-  <a href="https://chat.badland.ai"><img src="https://img.shields.io/badge/chat-badland.ai-4ade80?style=flat-square&logoColor=white"/></a>
-  <a href="https://agent.badland.ai"><img src="https://img.shields.io/badge/agent-badland.ai-4ade80?style=flat-square&logoColor=white"/></a>
-  <a href="https://starheart.ai"><img src="https://img.shields.io/badge/starheart-starheart.ai-4ade80?style=flat-square&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/cole-tebou/"><img src="https://img.shields.io/badge/LinkedIn-cole--tebou-4ade80?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=coletebou&style=flat-square&color=4ade80" alt="Profile views"/>
-</p>
+**The shared memory.** One self-hosted memory for Claude Code, Codex, ChatGPT and any MCP client.
+Hybrid keyword and vector search, facts that keep their history, per-agent keys, a write gate that
+refuses secrets, and provenance on everything an agent reads back.
+
+`TypeScript` `MCP` `SQLite FTS5 + sqlite-vec` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### dx <sub>opening soon</sub>
+
+**The environment.** Dotfiles for running fleets of coding agents: Claude Code and Codex hooks, a
+skills marketplace, tmux, git worktrees, session handoff chains and agent memory. macOS and Linux.
+
+`zsh` `tmux` `Claude Code` `Codex`
+
+</td>
+<td width="50%" valign="top">
+
+### [porchlight](https://github.com/coletebou/porchlight)
+
+**The login screen.** A fleet-aware MOTD: vitals, services, AI agents and their plan limits,
+containers, pull requests and cloud status, ranked into one attention list and rendered from cache in
+milliseconds.
+
+`Python 3.9+` `zero dependencies`
+
+</td>
+</tr>
+</table>
+
+## Also on the drafting table
+
+| | |
+|---|---|
+| **[Badland Line](https://github.com/Badland-AI/grokbot)** | Text your Grok Bot from any phone over SMS: a remote MCP server and a skill. |
+| **[grok-bot-backup](https://github.com/coletebou/grok-bot-backup)** | Back up every Grok Bot, routine and skill to git as plain files. Unofficial and read-only. |
+| **[Tide](https://github.com/coletebou/tide)** | A native code editor for iPad and iPhone in the spirit of VS Code, in Swift. Early. |
+| **[Airspace Lab](https://github.com/coletebou/airspace-lab)** | Orbit, slice and probe U.S. terminal airspace in 3D instead of memorizing a sectional. |
+| **[Excito](https://github.com/coletebou/Excito)** | Earthquake ground-motion spectral matching: legacy Fortran behind a Python command line. |
+
+## Upstream
+
+Pull requests merged into other people's projects, as of October 2026: 72 to
+[ooxml](https://github.com/ChristopherVR/ooxml) (the logic behind its Office viewers) and 10 across
+[OpenClaw](https://github.com/openclaw)'s projects: 8 to [Clawpatch](https://github.com/openclaw/clawpatch),
+and one each to [OpenClaw](https://github.com/openclaw/openclaw) itself and [imsg](https://github.com/openclaw/imsg).
+Five more are open on OpenClaw.
+[Every merged pull request](https://github.com/search?q=author%3Acoletebou+is%3Apr+is%3Amerged+-user%3Acoletebou+-org%3ABadland-AI&type=pullrequests).
 
 ---
 
-## What I'm Building
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| **[chat.badland.ai](https://chat.badland.ai)** | TypeScript, React, Vite, Express 5, MongoDB, AWS Bedrock | Multi-model chat platform (Claude, GPT, Gemini, Grok) with voice, image gen, and council mode. Production for over a year with paying tenants. |
-| **[agent.badland.ai (OpenClaw)](https://agent.badland.ai)** | Docker, gVisor, Node.js, Nginx | Multi-tenant AI agent platform. Auto-provisioner spins up an isolated tenant on signup and texts the user via iMessage or SMS within seconds. |
-| **[ai-cli](https://github.com/coletebou/ai-keys)** | Rust | CLI that fans a query to multiple LLM providers in parallel and renders side-by-side responses in CLI or TUI mode. |
-| **Voice agent** | Raspberry Pi, OpenAI Realtime / Gemini Live / Grok | Local wake-word ("lux") triggers full-duplex conversation, all backed by one Badland API. |
-| **[starheart.ai](https://starheart.ai)** | HTML, Cloudflare Pages | Christian AI initiative — using artificial intelligence to serve Jesus Christ and reflect truth, stewardship, and radiance. |
-| **Infrastructure** | AWS (Bedrock, EC2, IAM, Route 53, CloudWatch, SES), Cloudflare, Vercel, Tailscale, GitHub Actions | Production infra with CI/CD, observability (Sentry, UptimeRobot, OpenTelemetry to Langfuse). |
-| **Dev Environment** | zsh, tmux, Starship, dotfiles, Claude Code | Portable dev setup with bidirectional sync across roughly 10 machines and 3 OSes (macOS, Ubuntu, iOS), hundreds of aliases / shell functions / Claude Code skills. |
-
-## Open Source
-
-10+ PRs merged into [OpenClaw](https://github.com/coletebou/openclaw), [Langfuse](https://github.com/coletebou/langfuse-python), and the [Vercel AI SDK](https://github.com/coletebou/ai) in the past month covering channel extensions, observability, and developer tooling.
-
-## Tech Stack
-
-**Frontend** · React, Next.js, TypeScript, Vite, Astro, Tailwind CSS, shadcn/ui, Radix UI, Vercel AI SDK
-**Backend** · Node.js, Bun, TypeScript, Express 5, tRPC, FastAPI, Hono
-**Database** · MongoDB (Atlas + self-hosted), PostgreSQL, Supabase, SQLite, R2/S3
-**AI / LLM** · Claude (Bedrock + API), GPT, Gemini, Grok, Vercel AI Gateway, Langfuse, agentic frameworks
-**Infrastructure** · AWS (Bedrock, EC2, IAM, Route 53, CloudWatch, SES), Cloudflare (Workers, DNS, Email Routing), Vercel, Docker, gVisor, Tailscale, Nginx, Caddy
-**CI/CD** · GitHub Actions (self-hosted runners), GitLab CI, Vercel auto-deploy
-**Observability** · OpenTelemetry, Langfuse, Sentry, UptimeRobot
+<p>
+  <a href="https://coletebou.com">coletebou.com</a> ·
+  <a href="https://plans.coletebou.com">the plan set</a> ·
+  <a href="https://coletebou.github.io">coletebou.github.io</a> ·
+  <a href="https://badland.ai">badland.ai</a> ·
+  <a href="https://www.linkedin.com/in/cole-tebou">LinkedIn</a> ·
+  <a href="https://x.com/coletebou">X</a>
+</p>
+<!-- When the terminal edition ships, add: <a href="https://term.coletebou.com">the terminal</a> -->

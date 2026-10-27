@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 320" width="960" height="320" role="img" aria-labelledby="title desc">
+  <title id="title">Cole Tebou: software engineer, tools for running fleets of coding agents</title>
+  <desc id="desc">An engineering cover sheet. The name is set in single-stroke drafting letters above general notes, and a utility plan shows Claude Code, Codex, Grok bots and OpenClaw tied into the Drover control plane, with badland-brain as the shared memory main and dx as the ground under it all.</desc>
+  <style>
+    .paper { fill: #ecebe4; } .sheet { fill: #f7f6f0; }
+    .grid { stroke: #15212c; stroke-opacity: .07; stroke-width: .6; }
+    .hair { stroke: #15212c; stroke-opacity: .35; stroke-width: .8; fill: none; }
+    .line { stroke: #15212c; stroke-opacity: .5; stroke-width: .8; }
+    .heavy { stroke: #15212c; stroke-width: 1.6; }
+    .tb { stroke: #15212c; stroke-width: 1.2; fill: none; }
+    .ink-line { stroke: #15212c; stroke-width: 1.2; fill: none; }
+    .dim { stroke: #4a5866; stroke-width: .9; fill: none; }
+    .letters { stroke: #15212c; stroke-width: 4.2; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    .pt { stroke: #15212c; stroke-width: 1.4; fill: #f7f6f0; }
+    .cp { stroke: #d5470c; stroke-width: 1.6; fill: #d5470c; fill-opacity: .12; }
+    .main { stroke: #2a5d8f; stroke-width: 3; fill: none; stroke-linecap: round; }
+    .sky-line { stroke: #2a5d8f; stroke-width: 1.2; fill: none; }
+    .fill-ink2 { fill: #4a5866; } .fill-flag { fill: #d5470c; }
+    .ink { fill: #15212c; } .ink2 { fill: #4a5866; } .flag { fill: #d5470c; } .sky { fill: #2a5d8f; }
+    .mono, .zone, .label { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace; }
+    .zone { fill: #4a5866; font-size: 8px; text-anchor: middle; }
+    .label { fill: #4a5866; font-size: 7.5px; letter-spacing: .8px; }
+    .strong { font-weight: 700; }
+    .lead { font-size: 16px; letter-spacing: 3px; font-weight: 700; }
+    .body { font-size: 13px; letter-spacing: 1.6px; }
+    .small { font-size: 11.5px; letter-spacing: 1px; }
+    .tiny { font-size: 10px; letter-spacing: .8px; }
+  </style>
+  <defs>
+    <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path class="grid" d="M16 0H0V16" fill="none"/>
+    </pattern>
+    <pattern id="earth" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <path class="line" d="M0 0V8" fill="none"/>
+    </pattern>
+    <marker id="arw" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path class="fill-ink2" d="M0 1.5L10 5L0 8.5Z"/>
+    </marker>
+  </defs>
+
+  <!-- drafting table, sheet, grid -->
+  <rect class="paper" width="960" height="320"/>
+  <rect class="sheet" x="6" y="6" width="948" height="308"/>
+  <rect x="18" y="18" width="924" height="284" fill="url(#grid)"/>
+
+  <!-- borders: outer hairline, inner medium; zone marks between them -->
+  <rect class="hair" x="6.5" y="6.5" width="947" height="307" fill="none"/>
+  <rect class="heavy" x="18" y="18" width="924" height="284" fill="none"/>
+  <g class="hair">
+    <path d="M172 6.5V18M326 6.5V18M480 6.5V18M634 6.5V18M788 6.5V18"/>
+    <path d="M172 302V313.5M326 302V313.5M480 302V313.5M634 302V313.5M788 302V313.5"/>
+    <path d="M6.5 160H18M942 160H953.5"/>
+  </g>
+  <g class="zone">
+    <text x="95" y="15.5">1</text><text x="249" y="15.5">2</text><text x="403" y="15.5">3</text>
+    <text x="557" y="15.5">4</text><text x="711" y="15.5">5</text><text x="865" y="15.5">6</text>
+    <text x="95" y="311.5">1</text><text x="249" y="311.5">2</text><text x="403" y="311.5">3</text>
+    <text x="557" y="311.5">4</text><text x="711" y="311.5">5</text><text x="865" y="311.5">6</text>
+    <text x="12.25" y="92">A</text><text x="12.25" y="236">B</text>
+    <text x="947.75" y="92">A</text><text x="947.75" y="236">B</text>
+  </g>
+
+  <!-- lettering guide lines, then the name in single-stroke drafting letters -->
+  <g class="hair">
+    <path d="M36 54H500M36 110H500M36 82H500" stroke-dasharray="2 4"/>
+  </g>
+  <g class="letters" transform="translate(0 54)">
+    <path transform="translate(44 0)" d="M27.93 6.55A17 28 0 1 0 27.93 49.45"/>
+    <ellipse cx="109" cy="28" rx="17" ry="28"/>
+    <path transform="translate(140 0)" d="M0 0V56H34"/>
+    <path transform="translate(188 0)" d="M34 0H0V56H34M0 27H26"/>
+    <path transform="translate(262 0)" d="M0 0H34M17 0V56"/>
+    <path transform="translate(310 0)" d="M34 0H0V56H34M0 27H26"/>
+    <path transform="translate(358 0)" d="M0 56V0H18A12 13.5 0 0 1 18 27H0M18 27H20A14 14.5 0 0 1 20 56H0"/>
+    <ellipse cx="423" cy="28" rx="17" ry="28"/>
+    <path transform="translate(454 0)" d="M0 0V39A17 17 0 0 0 34 39V0"/>
+  </g>
+
+  <!-- dimension under the name -->
+  <g class="dim">
+    <path d="M44 118V138M488 118V138"/>
+    <path d="M48 132H484" marker-start="url(#arw)" marker-end="url(#arw)"/>
+  </g>
+  <rect class="sheet" x="176" y="125" width="180" height="14"/>
+  <text class="mono small ink2" x="266" y="136" text-anchor="middle">ON GITHUB SINCE 2015</text>
+
+  <!-- what he builds -->
+  <text class="mono lead ink" x="44" y="168">SOFTWARE ENGINEER</text>
+  <text class="mono body ink" x="44" y="190">TOOLS FOR RUNNING FLEETS OF CODING AGENTS</text>
+  <text class="mono small ink2" x="44" y="210">CIVIL ENGINEER BY TRAINING · WASHINGTON, D.C.</text>
+
+  <!-- general notes -->
+  <path class="line" d="M44 226H600"/>
+  <text class="mono small ink strong" x="44" y="244">GENERAL NOTES</text>
+  <text class="mono small ink2" x="44" y="262">1. ONE CONTROL PLANE SEES EVERY AGENT SESSION ON EVERY MACHINE.</text>
+  <text class="mono small ink2" x="44" y="278">2. ONE SHARED MEMORY, READ AND WRITTEN BY EVERY AGENT OVER MCP.</text>
+  <text class="mono small ink2" x="44" y="294">3. ONE ENVIRONMENT FOR THE WHOLE FLEET, MACOS AND LINUX.</text>
+
+  <!-- plan 1: the fleet, drawn as a utility plan -->
+  <text class="mono small ink strong" x="572" y="44">PLAN 1 — THE FLEET</text>
+  <text class="mono tiny ink2" x="572" y="58">NOT TO SCALE</text>
+  <g transform="translate(912 46)">
+    <circle class="line" r="11" fill="none"/>
+    <path class="fill-flag" d="M0 -11L4 4L0 1L-4 4Z"/>
+    <text class="mono tiny ink2" y="-15" text-anchor="middle">N</text>
+  </g>
+
+  <!-- agents: survey points with labels -->
+  <g class="mono tiny ink" text-anchor="middle">
+    <text x="608" y="78">CLAUDE CODE</text>
+    <text x="708" y="78">CODEX</text>
+    <text x="808" y="78">GROK BOTS</text>
+    <text x="900" y="78">OPENCLAW</text>
+  </g>
+  <g class="pt">
+    <circle cx="608" cy="90" r="5.5"/><circle cx="708" cy="90" r="5.5"/>
+    <circle cx="808" cy="90" r="5.5"/><circle cx="900" cy="90" r="5.5"/>
+  </g>
+  <g class="ink-line">
+    <path d="M608 95.5V106M708 95.5V106M808 95.5V106M900 95.5V106"/>
+  </g>
+
+  <!-- control plane: the header every agent ties into -->
+  <rect class="cp" x="584" y="106" width="340" height="24"/>
+  <text class="mono small flag strong" x="754" y="122" text-anchor="middle">DROVER — CONTROL PLANE</text>
+
+  <!-- shared memory: the main, with laterals -->
+  <g class="sky-line" stroke-dasharray="3 3">
+    <path d="M640 130V152M754 130V152M868 130V152"/>
+  </g>
+  <path class="main" d="M584 152H924"/>
+  <text class="mono tiny sky" x="584" y="168">BADLAND-BRAIN — SHARED MEMORY, OVER MCP</text>
+
+  <!-- environment: the ground everything stands on -->
+  <rect x="584" y="178" width="340" height="8" fill="url(#earth)"/>
+  <path class="ink-line" d="M584 178H924"/>
+  <text class="mono tiny ink2" x="584" y="198">DX — ONE ENVIRONMENT UNDER IT ALL</text>
+
+  <!-- title block -->
+  <g class="tb">
+    <rect x="640" y="208" width="302" height="94" fill="none"/>
+    <path d="M640 232H942M640 256H942M640 280H942M820 208V232M760 256V280M860 256V280"/>
+  </g>
+  <g class="mono">
+    <text class="label" x="646" y="217">DRAWN BY</text><text class="small ink strong" x="646" y="228">C. TEBOU</text>
+    <text class="label" x="826" y="217">SHEET</text><text class="small ink strong" x="826" y="228">G-001</text>
+    <text class="label" x="646" y="241">PROJECT</text><text class="small ink strong" x="646" y="252">THE AGENT FLEET</text>
+    <text class="label" x="646" y="265">SCALE</text><text class="small ink" x="646" y="276">NTS</text>
+    <text class="label" x="766" y="265">REV</text><text class="small ink" x="766" y="276">A</text>
+    <text class="label" x="866" y="265">DATE</text><text class="small ink" x="866" y="276">2026-10</text>
+    <text class="small flag strong" x="791" y="295" text-anchor="middle">GITHUB.COM/COLETEBOU</text>
+  </g>
+</svg>
