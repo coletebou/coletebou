@@ -64,15 +64,22 @@ milliseconds.
 </tr>
 </table>
 
-## Also on the drafting table
+## Sites
 
 | | |
 |---|---|
-| **[Badland Line](https://github.com/Badland-AI/grokbot)** | Text your Grok Bot from any phone over SMS: a remote MCP server and a skill. |
-| **[grok-bot-backup](https://github.com/coletebou/grok-bot-backup)** | Back up every Grok Bot, routine and skill to git as plain files. Unofficial and read-only. |
-| **[Tide](https://github.com/coletebou/tide)** | A native code editor for iPad and iPhone in the spirit of VS Code, in Swift. Early. |
-| **[Airspace Lab](https://github.com/coletebou/airspace-lab)** | Orbit, slice and probe U.S. terminal airspace in 3D instead of memorizing a sectional. |
-| **[Excito](https://github.com/coletebou/Excito)** | Earthquake ground-motion spectral matching: legacy Fortran behind a Python command line. |
+| **[agent.badland.ai](https://agent.badland.ai)** | Your own AI agent in iMessage and SMS. No new app: sign up and it texts you. |
+| **[tallgrass.social](https://tallgrass.social)** | Go find something wild: identify what you find, keep your discoveries, explore with friends. |
+| **[starheart.ai](https://starheart.ai)** | Intelligence in service of the Creator: AI used to glorify God, a light in a dark world. |
+| **[sunnydayz.co](https://sunnydayz.co)** | Family outdoor gear for trading screen time for sunshine. |
+| **[chat.badland.ai](https://chat.badland.ai)** | Three AIs answer one prompt side by side, with image generation and voice. |
+| **[coletebou.com](https://coletebou.com)** | My portfolio, the almanac edition. |
+| **[plans.coletebou.com](https://plans.coletebou.com)** | The same portfolio, drawn as a set of engineering sheets. |
+| **[term.coletebou.com](https://term.coletebou.com)** | And as a shell: `ls` the works, open one. |
+| **[coletebou.github.io](https://coletebou.github.io)** | The index of all three editions. |
+| **[badland.ai](https://badland.ai)** | Badland: AI built for independence. |
+| **[arena.badland.ai](https://arena.badland.ai)** | ROOTFALL: a 3D AI battle royale you can watch live. |
+| **[nebulatio.com](https://nebulatio.com)** | Nebulatio Studio: web design and development. |
 
 ## Upstream
 
@@ -86,11 +93,6 @@ Five more are open on OpenClaw.
 ---
 
 <p>
-  <a href="https://coletebou.com">coletebou.com</a> ·
-  <a href="https://plans.coletebou.com">the plan set</a> ·
-  <a href="https://term.coletebou.com">the terminal</a> ·
-  <a href="https://coletebou.github.io">coletebou.github.io</a> ·
-  <a href="https://badland.ai">badland.ai</a> ·
   <a href="https://www.linkedin.com/in/cole-tebou">LinkedIn</a> ·
   <a href="https://x.com/coletebou">X</a>
 </p>
