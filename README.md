@@ -13,8 +13,10 @@ Before code, I built things you can stand on. As a civil and structural engineer
 a 20-person ironworker crew setting six million pounds of rebar on a $100M ship-lift drydock. I bring that
 discipline to agents.
 
-On the side I run [Badland](https://badland.ai), a personal-agent platform built and operated by a fleet of
-coding agents, on the open-source stack below.
+I also founded **[Badland](https://badland.ai)**: personal AI agents you text over iMessage and SMS, each with
+its own memory, skills and tools. More than a hundred live on a single server and wake when texted, and a
+fleet of coding agents builds and runs it all, handing work to each other in chains thirty generations deep.
+The stack behind that fleet is open source:
 
 ## The agent stack
 
