@@ -92,6 +92,16 @@ Pull requests merged into other people's projects, as of October 2026: 72 to
 and one each to [OpenClaw](https://github.com/openclaw/openclaw) itself and [imsg](https://github.com/openclaw/imsg).
 [Every merged pull request](https://github.com/search?q=author%3Acoletebou+is%3Apr+is%3Amerged+-user%3Acoletebou+-org%3ABadland-AI&type=pullrequests).
 
+## Contributions
+
+The last twelve months, redrawn every night in the portfolio's almanac, blueprint and shell editions.
+
+<a href="https://coletebou.com"><img alt="The last twelve months of contributions as a night sky, in the almanac edition: one star a day, brighter for more work, beneath the phases of the Moon, with Psalm 147:4." src="assets/contributions/almanac.svg" width="100%"></a>
+
+<a href="https://plans.coletebou.com"><img alt="The same year as a plan and profile sheet, in the blueprint edition: each day a cell hatched by its quartile, and the running total plotted against a uniform grade, with a title block of quantities." src="assets/contributions/blueprint.svg" width="100%"></a>
+
+<a href="https://term.coletebou.com"><img alt="The same year as a terminal session, in the shell edition: a typed command streams out the year's heatmap and its totals." src="assets/contributions/shell.svg" width="100%"></a>
+
 ---
 
 <p>

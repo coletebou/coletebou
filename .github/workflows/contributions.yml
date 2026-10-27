@@ -1,0 +1,40 @@
+name: Draw contributions
+
+on:
+  schedule:
+    - cron: '17 5 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/scripts/draw-contributions.py
+      - .github/workflows/contributions.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contributions
+  cancel-in-progress: false
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Draw the almanac, blueprint and shell editions
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/draw-contributions.py --out assets/contributions
+      - name: Commit the drawings if they changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/contributions
+          if git diff --staged --quiet; then
+            echo "The drawings are unchanged."
+            exit 0
+          fi
+          git commit -m 'chore: redraw the contribution editions'
+          git push || { git pull --rebase origin main && git push; }
