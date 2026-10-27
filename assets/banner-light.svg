@@ -47,12 +47,12 @@
 <path d="M1186,401 L1191,406 L1186,411 L1181,406 Z" fill="#7a590d"/>
 <rect x="586.0" y="6" width="28" height="18" fill="#f4efe3"/>
 <path d="M600.0,4 V25 M594.0,10.5 H606.0" stroke="#7a590d" stroke-width="2.2" stroke-linecap="round"/>
-<text x="64" y="82" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#696357" letter-spacing="2.6">VOL. I · MMXXVI · AI SOFTWARE ENGINEER · BADLAND</text>
+<text x="64" y="82" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#696357" letter-spacing="2.6">VOL. I · MMXXVI · AGENTIC SYSTEMS ENGINEER · BADLAND</text>
 <line x1="64" y1="98" x2="760" y2="98" stroke="#8a5c08" stroke-width="0.8"/>
 <text x="62" y="166" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="66" fill="#1d1b16" letter-spacing="0.5">Cole Tebou</text>
 <text x="64" y="210" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="26" fill="#46423a" font-style="italic">Almanac &amp; Ephemeris for the Year of Our Lord 2026</text>
-<text x="64" y="254" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="18.5" fill="#46423a" >Tools for running fleets of coding agents: the Drover control plane,</text>
-<text x="64" y="280" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="18.5" fill="#46423a" >the badland-brain shared memory, and the dx environment beneath them.</text>
+<text x="64" y="254" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="18.5" fill="#46423a" >Agentic systems in production: enterprise AI for the nuclear industry,</text>
+<text x="64" y="280" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,'Times New Roman',serif" font-size="18.5" fill="#46423a" >a platform of personal AI agents, and the coding-agent fleet that builds it.</text>
 <line x1="64" y1="306" x2="760" y2="306" stroke="#8a5c08" stroke-width="0.8"/>
 <text x="64" y="330" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#696357" letter-spacing="1.1">CALCULATED FOR THE MERIDIAN OF WASHINGTON · LAT. 38° 54′ N · LONG. 77° 03′ W</text>
 <circle cx="985" cy="178" r="128" fill="#ebe4d3" stroke="#46423a" stroke-width="1"/>

@@ -2,16 +2,28 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img alt="Cole Tebou’s Almanac and Ephemeris for the Year of Our Lord 2026: a software engineer building tools for running fleets of coding agents (the Drover control plane, the badland-brain shared memory and the dx environment), with a star chart of Orion and the Pleiades, the phases of the Moon, and Psalm 19:1." src="assets/banner-light.svg" width="100%">
+    <img alt="Cole Tebou’s Almanac and Ephemeris for the Year of Our Lord 2026: agentic systems in production, enterprise AI for the nuclear industry, a platform of personal AI agents and the coding-agent fleet that builds it, with a star chart of Orion and the Pleiades, the phases of the Moon, and Psalm 19:1." src="assets/banner-light.svg" width="100%">
   </picture>
 </a>
 
-I build the tooling for running a fleet of coding agents: a control plane that sees every Claude Code
-and Codex session on every machine, one memory they all share, and the environment underneath them.
-On top of it I run [Badland](https://badland.ai): a personal AI agent you text over iMessage, SMS and
-Telegram, and a chat app that puts three AIs on one prompt, side by side.
+I build agentic systems and run them in production.
 
-## The fleet
+**In the enterprise,** I build AI and engineering systems for the advanced nuclear industry: agentic
+workflows and platform capabilities on AWS, built for reliability, access control and traceable results.
+
+**[Badland](https://badland.ai) is my own platform.** It gives each person an AI agent of their own, with
+its own memory, skills, tools and scheduled jobs, that they text over iMessage and SMS. More than a hundred
+are provisioned, each in its own container; idle agents sleep and wake on the next text, so one server
+carries them all.
+
+**A fleet of coding agents builds and runs it:** dozens of Claude Code and Codex sessions across my
+machines that plan, build, review and deploy. They hand their work to fresh sessions in chains now more
+than thirty generations deep, share one memory, and answer to a manager agent that keeps them moving.
+
+Before software I was a structural engineer on heavy civil and industrial projects, from a $100M ship-lift
+drydock to a $250M industrial plant. The stack that runs my fleet is open source:
+
+## The agent stack
 
 <table>
 <tr>
@@ -20,7 +32,7 @@ Telegram, and a chat app that puts three AIs on one prompt, side by side.
 ### [Drover](https://github.com/coletebou/drover)
 
 **The control plane.** Every Claude Code session, Codex thread and Grok bot on every host, in three
-lanes: waiting on you, working, idle. Answer, message and launch them from a browser, a terminal, a
+lanes: waiting on you, working, idle. A manager agent reads the board and keeps the fleet moving. Answer, message and launch them from a browser, a terminal, a
 Mac, an iPhone, a watch or a browser extension. One daemon per machine, zero npm dependencies, no open
 ports.
 
