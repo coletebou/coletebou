@@ -73,16 +73,16 @@ milliseconds.
 
 ## Sites
 
-| | |
-|---|---|
-| **[agent.badland.ai](https://agent.badland.ai)** | Your own AI agent in iMessage and SMS. No new app: sign up and it texts you. |
-| **[chat.badland.ai](https://chat.badland.ai)** | Three AIs answer one prompt side by side, with image generation and voice. |
-| **[tallgrass.social](https://tallgrass.social)** | Go find something wild: identify what you find, keep your discoveries, explore with friends. |
-| **[starheart.ai](https://starheart.ai)** | Intelligence in service of the Creator: AI used to glorify God, a light in a dark world. |
-| **[sunnydayz.co](https://sunnydayz.co)** | Family outdoor gear for trading screen time for sunshine. |
-| **[arena.badland.ai](https://arena.badland.ai)** | ROOTFALL: a 3D AI battle royale you can watch live. |
-| **[Portfolio](https://coletebou.github.io)** | In three editions: [almanac](https://coletebou.com) · [blueprint](https://plans.coletebou.com) · [shell](https://term.coletebou.com) |
-| **[nebulatio.com](https://nebulatio.com)** | Nebulatio Studio: web design and development. |
+<table>
+<tr><td><b><a href="https://agent.badland.ai">agent.badland.ai</a></b></td><td>Your own AI agent in iMessage and SMS. No new app: sign up and it texts you.</td></tr>
+<tr><td><b><a href="https://chat.badland.ai">chat.badland.ai</a></b></td><td>Three AIs answer one prompt side by side, with image generation and voice.</td></tr>
+<tr><td><b><a href="https://tallgrass.social">tallgrass.social</a></b></td><td>Go find something wild: identify what you find, keep your discoveries, explore with friends.</td></tr>
+<tr><td><b><a href="https://starheart.ai">starheart.ai</a></b></td><td>Intelligence in service of the Creator: AI used to glorify God, a light in a dark world.</td></tr>
+<tr><td><b><a href="https://sunnydayz.co">sunnydayz.co</a></b></td><td>Family outdoor gear for trading screen time for sunshine.</td></tr>
+<tr><td><b><a href="https://arena.badland.ai">arena.badland.ai</a></b></td><td>ROOTFALL: a 3D AI battle royale you can watch live.</td></tr>
+<tr><td><b><a href="https://coletebou.github.io">Portfolio</a></b></td><td>In three editions: <a href="https://coletebou.com">almanac</a> · <a href="https://plans.coletebou.com">blueprint</a> · <a href="https://term.coletebou.com">shell</a></td></tr>
+<tr><td><b><a href="https://nebulatio.com">nebulatio.com</a></b></td><td>Nebulatio Studio: web design and development.</td></tr>
+</table>
 
 ## Upstream
 
